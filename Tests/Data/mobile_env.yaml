@@ -1,0 +1,9 @@
+Device:
+   pocof1:
+      Device_Name: 9449dfda
+      Platform_Name: Android
+      Platform_Version: '10.0'
+      App_package: io.appium.android.apis 
+      App_activity: io.appium.android.apis.ApiDemos
+      Server:  http://localhost:4723/wd/hub
+      Automation:  UIAutomator2
